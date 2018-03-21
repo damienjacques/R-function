@@ -1,6 +1,6 @@
 ---
 title: "plot_correlation"
-output: html_notebook
+output: github_document
 author: Damien C. Jacques
 ---
 
