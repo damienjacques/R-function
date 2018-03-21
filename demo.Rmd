@@ -1,10 +1,10 @@
 ---
-title: "plot_correlation"
+title: "Functions demo using sample data"
 output: github_document
 author: Damien C. Jacques
 ---
 
-Demo of `plot_correlation` function.
+## [`plot_correlation`](https://github.com/damienjacques/R-function/blob/master/Plot-Functions/plot_correlation.R)
 
 ```{r}
 library(MASS)
