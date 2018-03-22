@@ -22,4 +22,4 @@ g <- plot_correlation(Boston, var = "tax", method = "spearman")
 g
 ```
 
-![](demo_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-3-1.png)
+![](Readme_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-3-1.png)
